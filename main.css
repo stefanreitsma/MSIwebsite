@@ -10,5 +10,6 @@ a {
 }
 p {
   background-color: green;
-  color: white
+  color: white;
+  padding: 10px;
 }
