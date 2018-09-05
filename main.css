@@ -8,3 +8,7 @@ h1, h2, h3, p  {
 a {
   color: blue;
 }
+p {
+  background-color: green;
+  color: white
+}
